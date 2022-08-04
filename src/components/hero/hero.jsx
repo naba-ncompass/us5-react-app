@@ -7,7 +7,7 @@ import './hero.css';
 const Hero = () => (
   <div className="hero">
     <h3 className="heading">
-      Robots, there’s more to them than meets the eye.
+      Robots, Now we can deploy and devlop any thing .
     </h3>
     <SectionLink targetSectionId="section-demo" />
   </div>
