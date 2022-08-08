@@ -7,7 +7,7 @@ import './hero.css';
 const Hero = () => (
   <div className="hero">
     <h3 className="heading">
-      Robots, Now we can deploy and devlop any thing Naba v3.
+      Robots, Now we can deploy and devlop any thing Naba v4.
     </h3>
     <SectionLink targetSectionId="section-demo" />
   </div>
